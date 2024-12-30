@@ -40,4 +40,4 @@ The page will reload when you make changes.\
 
 To create static storybook app you can use this command. This would create a build folder with static storybook application and can be used for deployment
 
-### `npm build storybook`
+### `npm run build-storybook`
